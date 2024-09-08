@@ -5,7 +5,7 @@ package HelloWorldGit;
 
 /**
  * @author Gary
- *Program will be used to setup git push
+ *Program will be used to setup git 
  */
 public class HelloWorld {
 
